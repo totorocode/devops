@@ -7,3 +7,5 @@ As more companies move towards the SAAS model and the need to update software co
 Important DevOps links
 https://www.youtube.com/watch?v=eL_0Ok_Gkas&pbjreload=10
 
+https://roadmap.sh/backend
+https://roadmap.sh/devops
