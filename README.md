@@ -11,7 +11,6 @@ https://roadmap.sh/backend
 
 https://roadmap.sh/devops
 
-Topics to prepare: 
 	Learn any Programming Language
 		Python
 	
